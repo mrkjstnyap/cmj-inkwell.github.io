@@ -18,32 +18,55 @@ layout: compress
 
   <head>
     <style>
+      
+      .about-us-description {
+  width: 100%; /* Adjust the width as needed */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 0px; /* Add padding as needed */
+  text-align: left;
+  user-select: none;
+  margin-bottom: 10px; /* Adjust the margin as needed */
+  line-height: 1.4;
+}
+
+/* Style for the text in the "About Us" description */
+.about-us-description p {
+  font-size: 16px; /* Adjust the font size */
+  font-weight: normal;
+}
+
+
+
       /* Style for the about me card container */
       .about-card {
       width: 300px;
       margin: 20px;
       padding: 10px;
       border: none;
-      border-radius: 5px;
+      border-radius: 20px;
       text-align: center;
       display: inline-block;
       transition: transform 0.3s, box-shadow 0.3s;
+      user-select: none;
     }
 
     /* Style for the circular image */
     .about-card img {
-      max-width: 100%; /* Set a fixed width */
-      width: 100%;
-      height: auto; /* Set a fixed height */
+      max-width: 50%; 
+      max-height: 50%;
+      width: 60%;
+      height: 60%; /* Set a fixed height */
       border-radius: 50%; /* Makes the image circular */
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); /* Add a drop shadow to the image */
+      border: 2px inset #c0c0c0b4;
       margin: 0 auto; /* Center the image horizontally */
+      object-fit: cover; /* This property maintains the aspect ratio for square images */
     }
 
     /* Style for the name */
     .about-card .name {
+      padding: 0px;
       font-weight: bold;
-      margin: 10px 0;
+      margin: 2px 0;
       text-decoration: none; /* Remove underline by default */
        transition: text-decoration 0.3s; /* Add a transition for the underline */
        user-select: none; /* Make the description not selectable */
@@ -51,8 +74,17 @@ layout: compress
 
     /* Style for the description */
     .about-card .description {
+      padding: 0px;
       font-size: 14px;
       user-select: none; /* Make the description not selectable */
+    }
+
+    .social-links a {
+      font-size: 12px; /* Set the font size to 14 pixels */
+      font-weight: bold; /* Make the text bold */
+      margin-right: 10px; /* Add some spacing between links (adjust as needed) */
+      text-decoration: none; /* Remove underline by default */
+      color: #8953cb; /* Set the link color (adjust to your preference) */
     }
 
     /* Add this class to create two cards side by side */
@@ -61,17 +93,24 @@ layout: compress
       justify-content: space-around;
     }
 
+    /* Media query for mobile devices */
+  @media (max-width: 768px) {
+  .card-container {
+    display: block; /* Stack cards vertically on screens 768px or smaller */
+    }
+    }     
+
     /* Add a hover effect for one of the cards */
-.about-card:hover {
-  transform: scale(1.1); /* Enlarge the card */
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); /* Add a glow effect */
-  border-radius: 15px;
-}
+    .about-card:hover {
+        transform: scale(1.2); /* Enlarge the card */
+        box-shadow: 0 0 18px rgba(172, 172, 172, 0.324); /* Add a glow effect */
+        border-radius: 15px;
+    }
 
 /* Add an underline to the name on hover */
-.about-card .name:hover {
-  text-decoration: underline;
-}
+      .about-card .name:hover {
+        text-decoration: underline;
+    }
 
 
     </style>

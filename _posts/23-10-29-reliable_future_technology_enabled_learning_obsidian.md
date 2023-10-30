@@ -12,7 +12,7 @@ Looking back during the 2020 pandemic, one of the biggest challenges I had (asid
 
 My usual methods wouldn't translate well when solely relying on my laptop and phone. I had no system of note taking and I had no prior system that would allow me to adapt to the setup. I also began to realize how my usual methods were outdated and had several flaws, such as not having a reliable method to quickly retrieve notes and connect my thoughts. This dilemma was what eventually led me to discover and come to appreciate Obsidian.  
 
-To start, it would be best if we first delve into how we process information and the difference between note making using a pen and note making through our devices. Secondly, I believe Obsidian as a tool for technology-enabled learning can partially remedy the struggles I mentioned above and with enough practice, it can become a versatile and powerful tool for students and for documenting one's work.
+To start, it would be best if we first delve into how we process information and the difference between note taking using a pen and note taking through our devices. Secondly, I believe Obsidian as a tool for technology-enabled learning can partially remedy the struggles I mentioned above and with enough practice, it can become a versatile and powerful tool for students and for documenting one's work.
 
 Lastly, while I believe that people would be able to significantly benefit from Obsidian should it be standardized in the classroom and in the workplace, it's just as important to not treat it as the one and only tool that can solve these problems. Ultimately, students will need to learn how to effectively apply note taking strategies whether that be through technology-enabled tools or through longhand writing.
 

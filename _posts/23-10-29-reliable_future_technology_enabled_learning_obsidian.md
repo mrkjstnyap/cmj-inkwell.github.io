@@ -20,7 +20,7 @@ Lastly, while I believe that people would be able to significantly benefit from 
 
 Note taking is a common activity for everyone. We record information from contact details to recipes and instructions. However, note taking is not just a simple act of recording information and copying text it can also involve some cognitive effort in managing and generating information that is both meaningful and personal. 
 
-The 2005 paper *Cognitive Effort during Note Taking*  [^1] provides a more thorough analysis of how note taking is compared to other activities. They showed how the "cognitive effort" of note taking was more demanding than playing chess or reading and learning but may not be as demanding compared to planning and composing creative work.
+The 2005 paper *Cognitive Effort during Note Taking*[^1]. provides a more thorough analysis of how note taking is compared to other activities. They showed how the "cognitive effort" of note taking was more demanding than playing chess or reading and learning but may not be as demanding compared to planning and composing creative work.
 
 <center><img src= "https://imgur.com/7Q9xC2C.png" 
 	 alt="Cognitive Effort for activities measured in milliseconds.">
@@ -37,7 +37,7 @@ There are various methods such as the Cornell note taking system, outlining, Zet
 
 Coming out of the pandemic, I still believe it is best to write using pen and paper. It feels inexplicably natural. In the past, the consensus also favored note making through pen and paper rather than using our laptops or phones. However, this may already be changing as we continue to adapt new strategies and tools.
 
-A 2008 study "*Learning with Laptops: A Multi-method Case Study*" [^2] illustrates the importance of laptop use in learning. They investigated how the implementation of laptop programs (i.e., each student is provided with a laptop for learning) for junior high school students affected learning patterns.
+A 2008 study "*Learning with Laptops: A Multi-method Case Study*"[^2] illustrates the importance of laptop use in learning. They investigated how the implementation of laptop programs (i.e., each student is provided with a laptop for learning) for junior high school students affected learning patterns.
 
 <center><img src= "https://imgur.com/O2AUE04.png" 
 	 alt="Student responses to do you agree or disagree statements following the implementation of the laptop program"></center>
@@ -109,7 +109,8 @@ With some additional plugins, Obsidian can enable a personalized workspace and i
 
 Lastly, there needs to be a shift toward learning in education. Note making is a vital skill that everyone can develop. It enables us the chance to record vital information, document our work, and share it with others. As we document more of our learning and work processes, we promote a culture of collaboration and consistency. Obsidian provides this opportunity being a simple but feature-rich writing software. It is not a perfect tool, but it is a tool that we can reliably carry into the future.
 
-**References**
+## References
+
 [^1]: Piolat, A., Olive, T., & Kellogg, R. T. (2005). Cognitive Effort during Note Taking. _Applied Cognitive Psychology_, _19_(3), 291–312. [https://doi.org/10.1002/acp.1086](https://doi.org/10.1002/acp.1086).
 [^2]: Learning with Laptops: A Multi-method Case Study(https://education.uci.edu/uploads/7/2/7/6/72769947/laptops-jecr.pdf).
 [^3]: Mueller, P. A., & Oppenheimer, D. M. (2014). The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking. _Psychological Science_, _25_(6), 1159–1168. (https://www.benjaminjameswaddell.com/wp-content/uploads/2014/09/mueller-the-pen-is-mightier-than-the-keyboard.pdf).

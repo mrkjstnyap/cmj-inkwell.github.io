@@ -3,12 +3,12 @@ title: A Reliable Future for Technology-Enabled Learning and Beyond with Obsidia
 date: 2023-10-30
 categories:
 - MJ
-tags: [Education]
+tags: [Education, Technology]
 author: mj
 image: https://imgur.com/awS3DPU.png
 ---
 
-Looking back during the pandemic in 2020, one of the biggest challenges I had (aside from the raging global health crisis and our crippling mental health) was feeling helpless in being able to properly process information as a student. My tried-and-true methods of putting thoughts and lessons on paper and annotating journal articles on physical copies were largely disrupted as I had to mostly rely on PDFs and videos. It was a struggle to fully grasp and appreciate the lessons delivered through this new online format. The strewn-about PDFs, mp4s, and Google Classroom interactions felt disconnected and overwhelming. 
+Looking back during the pandemic in 2020, one of the biggest challenges I had (aside from the raging global health crisis and the collective crippling mental health) was feeling helpless in being able to properly process information as a student. My tried-and-true methods of putting thoughts and lessons on paper and annotating journal articles on physical copies were largely disrupted as I had to mostly rely on PDFs and videos. It was a struggle to fully grasp and appreciate the lessons delivered through this new online format. The strewn-about PDFs, mp4s, and Google Classroom interactions felt disconnected and overwhelming. 
 
 My usual methods wouldn't translate well when solely relying on my laptop and phone. I had no system of note taking and I had no prior system that would allow me to adapt to the setup. However, I had very little choice at the time. I also began to realize how my usual methods were already outdated and had several flaws such as not having a reliable method to quickly retrieve notes and connect my thoughts. This dilemma was what eventually led me to discover and come to appreciate Obsidian.  
 
@@ -29,7 +29,7 @@ The 2005 paper *Cognitive Effort during Note Taking*[^1]. provides a more thorou
 
 <p></p>
 
-To better differentiate and simplify the terms, we will be differentiating **note taking** from **note making**. Note taking is an activity for verbatim recording of information without any transformation or changes to the information that is being received (i.e., simply copying a text). In contrast, **note making** is an activity that requires putting in executive attention or cognitive effort by carefully evaluating, synthesizing, and summarizing information that has been received and/or is being actively received. Like any relationship, it needs effort to ***make it work***.
+We will be differentiating between **note taking** from **note making**. Note taking is an activity for verbatim recording of information without any transformation or changes to the information that is being received (i.e., simply copying a text). In contrast, **note making** is an activity that requires putting in executive attention or cognitive effort by carefully evaluating, synthesizing, and summarizing information that has been received and/or is being actively received. Like any relationship, it needs effort to ***make it work***.
 
 There are various methods such as the Cornell note taking system, outlining, Zettelkasten, mind mapping, or simply just annotating printouts. These methods serve different purposes, yet whether these note making strategies translate well when using our devices such as laptops and smartphones versus pen and paper writing is still largely up for discussion.
 
@@ -109,7 +109,7 @@ With some additional plugins, Obsidian can enable a personalized workspace and i
 
 Lastly, there needs to be a shift toward learning in education. Note making is a vital skill that everyone can develop. It enables us the chance to record vital information, document our work, and share it with others. As we document more of our learning and work processes, we promote a culture of collaboration and consistency. Obsidian provides this opportunity being a simple but feature-rich writing software. It is not a perfect tool, but it is a tool that we can reliably carry into the future.
 
-## References
+##References
 
 [^1]: Piolat, A., Olive, T., & Kellogg, R. T. (2005). Cognitive Effort during Note Taking. _Applied Cognitive Psychology_, _19_(3), 291–312. [https://doi.org/10.1002/acp.1086](https://doi.org/10.1002/acp.1086).
 [^2]: Learning with Laptops: A Multi-method Case Study(https://education.uci.edu/uploads/7/2/7/6/72769947/laptops-jecr.pdf).

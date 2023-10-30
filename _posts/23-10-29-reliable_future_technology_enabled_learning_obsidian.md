@@ -59,7 +59,7 @@ I could go on with more recent studies, however, the discussion remains the same
 
 Two issues are presented here. First, the reliance on laptops and the internet is now commonplace, however, certain advantages are still awarded through longhand writing notes, especially towards conceptual knowledge. This becomes a problem when we are expected to digest an increasing multitude of information, learning materials, and projects using digital tools.  Yet, when the tools we have for learning and collaboration are not optimized for conceptual knowledge nor optimized to fit with our existing note taking methods then it can easily become overwhelming leading to a huge cesspool of randomly strewn about information.
 
-Secondly, there is a need to rethink a system that goes outside of the classroom. Note taking is not just a practice for students but an important skill that allows individuals to practice documenting their work for the future. Note takig is not simply an act of copying information but systematically evaluating and synthesizing important information that is useful and valuable. That system must allow for our own personal "knowledge on demand" system and must be designed to be collaborative.
+Secondly, there is a need to rethink a system that goes outside of the classroom. Note taking is not just a practice for students but an important skill that allows individuals to practice documenting their work for the future. Note takig is not simply an act of copying information but it involves the methodical evaluation and synthesizing of important information that is both useful and valuable. That system must allow for our own personal "knowledge on demand" system and must be designed to be collaborative.
 
 ## Toward Better Technology-Enabled Learning
 
@@ -103,7 +103,7 @@ Secondly, if you strip down Obsidian to its core, it's just a markdown editor. T
 
 Lastly, Obsidian can serve as a tool to address the gaps in technology-enabled learning in education. Note taking is a vital skill that everyone can develop. It enables us the chance to record vital information, document our work, and share it with others. As we document more of our learning and work processes, we promote a culture of collaboration and consistency. Obsidian provides this opportunity being a simple but feature-rich writing software. It is not a perfect tool, but it is a tool that we can reliably carry into the future.
 
-##References
+## References
 
 [^1]: Piolat, A., Olive, T., & Kellogg, R. T. (2005). Cognitive Effort during Note Taking. _Applied Cognitive Psychology_, _19_(3), 291–312. [https://doi.org/10.1002/acp.1086](https://doi.org/10.1002/acp.1086).
 [^2]: Learning with Laptops: A Multi-method Case Study(https://education.uci.edu/uploads/7/2/7/6/72769947/laptops-jecr.pdf).

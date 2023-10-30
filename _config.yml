@@ -15,9 +15,9 @@ timezone: Asia/Manila
 # ↓ --------------------------
 
 title: Project Ink Well
-tagline: I Ink therefore I write (or code?). A blog for wistful reflections.
+tagline: I Ink therefore I write. A blog for wistful reflections.
 description: >- # used by seo meta and the atom feed
-  I Ink therefore I write (or code?). A blog for wistful reflections.
+  I Ink therefore I write. A blog for wistful reflections.
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://mrkjstnyap.github.io.git"

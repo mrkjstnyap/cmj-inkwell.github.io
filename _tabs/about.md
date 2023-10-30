@@ -6,7 +6,7 @@ order: 4
   <div class="about-us-description">
     <p> Hello and welcome to our blog 👋. </p>
     
-  <p> CMJ (Carly & MJ) Ink Well is a project created for sharing our personal thoughts and discussions, exploring the intricacies of modern relationships, society, culture, technology, and philosophy within an ever-increasing complex world. We love cats and poems.</p>
+  <p> CMJ (Carly & MJ) Ink Well is a project created for sharing our personal thoughts and discussions, exploring the intricacies of modern relationships, society, culture, technology, and philosophy within an ever-increasing complex world. But most importantly, we love cats 🐈🐈‍⬛</p>
 
   </div>
 

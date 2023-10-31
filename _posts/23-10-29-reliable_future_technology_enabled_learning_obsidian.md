@@ -73,7 +73,7 @@ Several tools and software have been made to address the issue of note taking in
 
 Perhaps two of its most important features are its ability to link notes with bi-directional linking and its added flexibility to design a rich personal knowledge system that utilizes metadata like a Zettelkasten system.
 
-<center><img src= "https://imgur.com/AzpKZuT.png" 
+<center><img src= "https://imgur.com/jw17LIi.png" 
 	 alt="Obsidian features: Hyperlinking and Metadata"></center>
 <p></p>
 

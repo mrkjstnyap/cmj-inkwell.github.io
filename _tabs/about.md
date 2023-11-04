@@ -21,7 +21,7 @@ order: 4
       <div class="description">Writer, data and tech nerd, likes data and writing poems.
       </div>
  <div class="social-links">
-    <a class="social-link" href=""></a>
+    <a class="social-link" href="https://mrkjstnyap.github.io">Other Blog and Stuff</a>
     <a class="social-link" href=""></a>
   </div>
     </div>

@@ -8,7 +8,8 @@ refactor: true
 {% include lang.html %}
 
 {% assign pinned = site.posts | where: 'pin', 'true' %}
-{% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign hidden = site.posts | where: 'hidden', 'true' %}
+{% assign default = site.posts | where_exp: 'item', 'item.pin != true, item.hidden != true' %}
 
 {% assign posts = '' | split: '' %}
 
@@ -23,6 +24,14 @@ refactor: true
   {% endfor %}
 {% else %}
   {% assign pinned_num = 0 %}
+{% endif %}
+
+<!-- Get hidden posts -->
+{% assign hidden_num = hidden.size %}
+{% if hidden_num > 0 %}
+  {% for i in (0..hidden_num) %}
+    {% assign posts = posts | push: hidden[i] %}
+  {% endfor %}
 {% endif %}
 
 <!-- Get default posts -->

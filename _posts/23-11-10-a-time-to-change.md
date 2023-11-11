@@ -22,7 +22,7 @@ Two things that tie back to this feeling of which I have always been enthralled 
 This feeling is as dreadful as it is comforting. An awareness of how all things will eventually come and go. How the homes that have been built will eventually come to ruin. How the devices that we have will eventually act as spare parts for looters and scavengers. How paintings and photographs will become windows to the past. All the things we have done will be retold as reminders or stories. Yet it provides a sense of hope that things can change. 
 
 <p></p>
-Far into the future, people will be able to find our stories as we leave traces of our identity through the objects and people we have interacted with and find meaning in our struggles. But for now, we can still change what that story will be. I am hopeful that with time, the amount of suffering we have will dwindled in the future and people will look with the same sense of awe, wonder, and connectedness with the things that we have built and left behind, even if it may end in ruins. Only time can tell.
+Far into the future, people will discover our stories as we leave traces of our identity through the objects and people we have interacted with and hopefully find meaning in our struggles. But for now, we can still change what that story could be. I am hopeful that with time, suffering will have dwindled in the future and people will look with the same sense of awe, wonder, and connectedness with the things that we have built and left behind, even if it may end in ruins. Only time can tell.
 
 <p></p>
 

@@ -24,3 +24,10 @@ This feeling is as dreadful as it is comforting. An awareness of how all things 
 <p></p>
 Far into the future, people will be able to find our stories and find meaning in our own suffering. But for now, we can still change what that story will be and we can leave traces of our identity through the objects and people we have interacted with. I am hopeful that with time, the amount of suffering we have will dwindle in the future and people will look with the same sense of awe, wonder, and connectedness with the things that we have built and left behind, even if it may end in ruins. Only time can tell.
 
+<p></p>
+
+> What we call the beginning is often the end
+And to make and end is to make a beginning.
+The end is where we start from. <p></p>
+—T.S. Eliot
+

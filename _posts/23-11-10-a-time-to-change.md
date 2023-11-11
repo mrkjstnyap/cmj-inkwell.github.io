@@ -26,8 +26,13 @@ Far into the future, people will be able to find our stories and find meaning in
 
 <p></p>
 
-> What we call the beginning is often the end
-and to make and end is to make a beginning.
-The end is where we start from. 
+> Time past and time future  
+Allow but a little consciousness.  
+To be conscious is not to be in time  
+But only in time can the moment in the rose-garden,  
+The moment in the arbour where the rain beat,  
+The moment in the draughty church at smokefall  
+Be remembered; involved with past and future.  
+Only through time time is conquered.
 —T.S. Eliot
 
